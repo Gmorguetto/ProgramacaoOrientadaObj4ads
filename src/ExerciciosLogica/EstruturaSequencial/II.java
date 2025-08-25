@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class II {
     public static void main(String[] args) {
         System.out.printf(".:: CALCULANDO POLEGADAS EM CM ::.\n");
-
+//      leitura
         Scanner input = new Scanner(System.in);
 
         double polegada, cm;

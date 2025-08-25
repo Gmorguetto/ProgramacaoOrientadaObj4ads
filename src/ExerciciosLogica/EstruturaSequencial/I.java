@@ -7,7 +7,7 @@ public class I {
 
 //      para funcionar o scanner
         Scanner input = new Scanner(System.in);
-
+//      declaração
         int numero;
 
 //        Para digitar um numero e ler um numero
