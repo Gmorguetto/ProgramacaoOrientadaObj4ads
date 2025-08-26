@@ -1,3 +1,7 @@
+// GABRIEL PAULINO MORGUETTO 26/08/2025
+
+//1.	Faça um algoritmo para ler dois números inteiros e informar se estes são iguais ou diferentes.
+
 package ExerciciosLogica.EstruturaDeSelecao;
 
 import java.util.Scanner;

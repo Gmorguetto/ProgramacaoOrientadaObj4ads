@@ -1,3 +1,7 @@
+// GABRIEL PAULINO MORGUETTO 25/08/2025
+
+//1.	Fazer um algoritmo que leia um número inteiro e escreva o seu antecessor e o seu sucessor.
+
 package ExerciciosLogica.EstruturaSequencial;
 
 import java.util.Scanner;

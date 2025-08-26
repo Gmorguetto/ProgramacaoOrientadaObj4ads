@@ -1,3 +1,8 @@
+// GABRIEL PAULINO MORGUETTO 26/08/2025
+
+//2.	As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12.
+//        Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
+
 package ExerciciosLogica.EstruturaDeSelecao;
 
 import java.util.Scanner;
