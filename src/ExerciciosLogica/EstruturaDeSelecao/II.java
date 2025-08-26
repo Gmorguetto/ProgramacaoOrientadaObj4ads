@@ -6,6 +6,7 @@ public class II {
     public static void main(String[] args) {
         System.out.printf(".:: COMPRANDO MAÇA ::.\n");
 
+//      leitura
         Scanner input = new Scanner(System.in);
 
         System.out.printf("Digite o numero de maças comprada: ");
