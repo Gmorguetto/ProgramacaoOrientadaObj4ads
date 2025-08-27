@@ -3,7 +3,7 @@ package a26_08;
 public class vetor {
     public static void main(String[] args) {
 
-//        criar vetor
+//        criar vetoor
         int vetor[] = new int[10];
 
 //        for para preencher todas as posiçoes

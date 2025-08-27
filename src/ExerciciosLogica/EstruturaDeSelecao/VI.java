@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class VI {
     public static void main(String[] args) {
         System.out.printf(".:: CALCULANDO O COMBUSTIVEL ::.\n\n");
-
+//      leitura
         Scanner input = new Scanner(System.in);
         System.out.printf(".:: QUAL SEU COMBUSTIVEL? ::.\n");
         System.out.printf("[ 1 ] ALCOOL\n");

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class III {
     public static void main(String[] args) {
         System.out.printf(".:: CALCULANDO 2 VALOR ::.\n\n");
-
+//  leitura
         Scanner input = new Scanner(System.in);
 
         System.out.printf("Digite o valor 1:");
