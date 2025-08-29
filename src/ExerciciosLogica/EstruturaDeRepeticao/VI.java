@@ -22,5 +22,8 @@ public class VI {
             }
             System.out.printf("\nFatorial = %.0f\n", fatorial);
         }
+
+        input.close();
+
     }
 }

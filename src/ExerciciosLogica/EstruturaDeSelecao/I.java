@@ -23,5 +23,8 @@ public class I {
         }else{
             System.out.printf("\n\nOs numeros %.2f e %.2f são diferents\n",numero1,numero2);
         }
+
+        input.close();
+
     }
 }

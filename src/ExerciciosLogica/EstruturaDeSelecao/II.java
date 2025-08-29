@@ -24,5 +24,8 @@ public class II {
             double valorFinal = (macasCompradas * 1);
             System.out.printf("\nO valor para %d maças é de R$ 1.00.\nTotal = R$ %.2f\n", macasCompradas, valorFinal);
         }
+
+        input.close();
+
     }
 }

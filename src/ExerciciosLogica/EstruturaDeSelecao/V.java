@@ -32,6 +32,9 @@ public class V {
             System.out.printf("\nA categoria do nadador(a) é: ADULTO");
         }else{
             System.out.printf("\nO participante não tem idade para o sport");
+
+            input.close();
+
         }
     }
 }

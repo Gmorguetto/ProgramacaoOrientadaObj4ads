@@ -28,6 +28,9 @@ public class IV {
         }else{
             System.out.printf("\nA media do aluno é: %.2f\n", media);
             System.out.printf("\nREPROVADO");
+
+            input.close();
+
         }
     }
 }

@@ -20,5 +20,8 @@ public class II {
         cm = polegada * 2.54;
 
         System.out.printf("\nO valor em cm é: %.2f\n", cm);
+
+        input.close();
+
     }
 }

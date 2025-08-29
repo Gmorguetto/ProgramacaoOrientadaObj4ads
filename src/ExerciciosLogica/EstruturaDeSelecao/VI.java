@@ -32,6 +32,7 @@ public class VI {
             default:
                 System.out.printf("\nOPCAO INVALIDA\n");
         }
+        input.close();
 
     }
 }

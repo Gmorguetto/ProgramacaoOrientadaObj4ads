@@ -22,6 +22,7 @@ public class I {
         System.out.printf("O antecessor do numero %d é: %d\n", numero, numero-1);
         System.out.printf("O sucessor do numero %d é %d\n", numero, numero+1);
 
+        input.close();
 
     }
 }

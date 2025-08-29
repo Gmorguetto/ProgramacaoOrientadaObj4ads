@@ -47,5 +47,8 @@ public class III {
                 System.out.println("\nOpcao invalida");
 
         }
+
+        input.close();
+
     }
 }

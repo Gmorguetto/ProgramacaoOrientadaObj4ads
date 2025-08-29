@@ -19,5 +19,8 @@ public class III {
         double valorFinal = valorCarro + (valorCarro * 0.28) + (valorCarro * 0.45);
 
         System.out.printf("\nO valor final do carro é : R$ %.2f\n", valorFinal);
+
+        input.close();
+
     }
 }

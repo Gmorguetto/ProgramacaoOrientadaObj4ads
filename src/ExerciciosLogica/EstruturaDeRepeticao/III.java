@@ -17,5 +17,8 @@ public class III {
         for (int i = valor1; i <= valor2; i++) {
             System.out.printf("[ %d ] ", i);
         }
+
+        input.close();
+
     }
 }
