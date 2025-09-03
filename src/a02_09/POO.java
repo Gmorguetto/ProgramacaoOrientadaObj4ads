@@ -20,6 +20,7 @@ public class POO {
         int y = input.nextInt();
 
 
+
         POO obj = new POO(); //cria objeto
         obj.calcular(x,y); //executa
     }

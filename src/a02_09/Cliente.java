@@ -9,6 +9,7 @@ public class Cliente {
     int idade;
     double saldo;
 
+
 //    Métodos
     public void cadastrar(){
         nome = JOptionPane.showInputDialog("Digite seu nome: ");
